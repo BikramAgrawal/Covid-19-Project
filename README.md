@@ -1,10 +1,10 @@
 # COVID-19 Trend Analysis and Prediction Project
 
-Overview
+## Overview
 
 This project involves analyzing COVID-19 trends and predicting future cases using Python. The goal is to process real-world COVID-19 data, visualize key insights, and make short-term predictions to aid in understanding the progression of the pandemic.
 
-Problem Statement
+## Problem Statement
 
 Given CSV datasets containing information on confirmed COVID-19 cases, deaths, and recoveries, the objective is to:
 
