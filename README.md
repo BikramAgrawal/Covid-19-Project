@@ -40,41 +40,41 @@ The dataset consists of CSV files containing daily reports of confirmed cases, d
 
 - Merged and cleaned the data using Pandas.
 
-Data Preprocessing
+### 2.Data Preprocessing
 
-Handled missing values and ensured consistency across datasets.
+- Handled missing values and ensured consistency across datasets.
 
-Filtered data to focus on specific regions (e.g., India and global data).
+- Filtered data to focus on specific regions (e.g., India and global data).
 
-Data Visualization
+### 3.Data Visualization
 
-Created interactive plots using Plotly to show trends in:
+- Created interactive plots using Plotly to show trends in:
 
-Daily and cumulative confirmed cases.
+- Daily and cumulative confirmed cases.
 
-Daily recoveries and deaths.
+- Daily recoveries and deaths.
 
-Recovery and fatality rates.
+- Recovery and fatality rates.
 
-Time Series Forecasting
+### 4.Time Series Forecasting
 
-Built forecasting models using Facebook Prophet.
+- Built forecasting models using Facebook Prophet.
 
-Predicted the number of new cases for the following week.
+- Predicted the number of new cases for the following week.
 
-Visualized the forecasted results alongside historical data.
+- Visualized the forecasted results alongside historical data.
 
-Insights and Results
+### 5.Insights and Results
 
-Provided insights on the progression of the pandemic based on visualizations.
+- Provided insights on the progression of the pandemic based on visualizations.
 
-Generated short-term forecasts to help understand potential future trends.
+- Generated short-term forecasts to help understand potential future trends.
 
-How to Run the Project
+## How to Run the Project
 
-Clone the repository.
+1.Clone the repository.
 
-Install the required Python libraries:
+2.Install the required Python libraries:
 
 pip install pandas plotly prophet
 
