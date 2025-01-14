@@ -80,7 +80,7 @@ The dataset consists of CSV files containing daily reports of confirmed cases, d
 
 3.Run the main Python script:
 
-    python covid19_analysis.py
+    python covid-19project.ipynb
 
 4.View the generated visualizations and predictions.
 
