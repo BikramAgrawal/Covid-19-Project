@@ -14,31 +14,31 @@ Given CSV datasets containing information on confirmed COVID-19 cases, deaths, a
 
  3.  Build a time series forecasting model to predict the number of future cases.
 
-Tools and Technologies
+## Tools and Technologies
 
 Programming Language: Python
 
 Libraries:
 
-Pandas: For data cleaning and preprocessing.
+1. Pandas: For data cleaning and preprocessing.
 
-Plotly: For creating interactive visualizations.
+2. Plotly: For creating interactive visualizations.
 
-Facebook Prophet: For building time series forecasting models.
+3. Facebook Prophet: For building time series forecasting models.
 
-CSV: Data source format.
+4. CSV: Data source format.
 
-Dataset
+## Dataset
 
-The dataset consists of multiple CSV files containing daily reports of confirmed cases, deaths, and recoveries worldwide and regionally.
+The dataset consists of CSV files containing daily reports of confirmed cases, deaths, and recoveries worldwide and regionally.
 
-Project Steps
+## Project Steps
 
-Data Collection
+ ### 1.Data Collection
 
-Loaded CSV files containing COVID-19 data.
+- Loaded CSV files containing COVID-19 data.
 
-Merged and cleaned the data using Pandas.
+- Merged and cleaned the data using Pandas.
 
 Data Preprocessing
 
