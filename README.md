@@ -76,22 +76,22 @@ The dataset consists of CSV files containing daily reports of confirmed cases, d
 
 2.Install the required Python libraries:
 
-pip install pandas plotly prophet
+    pip install pandas plotly prophet
 
-Run the main Python script:
+3.Run the main Python script:
 
-python covid19_analysis.py
+    python covid19_analysis.py
 
-View the generated visualizations and predictions.
+4.View the generated visualizations and predictions.
 
-Future Scope
+### Future Scope
 
-Extend the project to include vaccination data for more comprehensive analysis.
+- Extend the project to include vaccination data for more comprehensive analysis.
 
-Incorporate additional machine learning models to improve prediction accuracy.
+- Incorporate additional machine learning models to improve prediction accuracy.
 
-Automate data collection from online sources for real-time analysis.
+- Automate data collection from online sources for real-time analysis.
 
-Conclusion
+### Conclusion
 
 This project demonstrates the use of Python for real-world data analysis and forecasting. It provides valuable insights into the COVID-19 pandemic and highlights the importance of data-driven decision-making during such critical times.
